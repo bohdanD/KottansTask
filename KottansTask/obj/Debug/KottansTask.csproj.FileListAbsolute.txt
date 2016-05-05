@@ -1,0 +1,6 @@
+C:\Users\Богдан\Documents\KottansTask\KottansTask\bin\Debug\KottansTask.exe.config
+C:\Users\Богдан\Documents\KottansTask\KottansTask\bin\Debug\KottansTask.exe
+C:\Users\Богдан\Documents\KottansTask\KottansTask\bin\Debug\KottansTask.pdb
+C:\Users\Богдан\Documents\KottansTask\KottansTask\obj\Debug\KottansTask.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Documents\KottansTask\KottansTask\obj\Debug\KottansTask.exe
+C:\Users\Богдан\Documents\KottansTask\KottansTask\obj\Debug\KottansTask.pdb
