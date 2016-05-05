@@ -1,2 +1,4 @@
 # KottansTask
-Task for kottans.org c# courses
+Task for kottans.org c# courses(Lviv)
+
+
