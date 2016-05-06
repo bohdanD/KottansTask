@@ -12,7 +12,7 @@ namespace KottansTask
             string AEPattern = "^34|37[0-9]{13}$";
             string MaestroPattern = "^(5[06789])|(6[0-9])[0-9]{10, 17}$";
             string MCPattern = "^5[1-5][0-9]{14}$";
-            string VisaPattern = "^4[0-9]{12}|[0-9]{15}|[0-9]{18}$";
+            string VisaPattern = "^4[0-9]{12}|4[0-9]{15}|4[0-9]{18}$";
             string JCBPattern = "^(35[3-8][0-9])|(3528|3529)[0-9]{12}$";
 
 
